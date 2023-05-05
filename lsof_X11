@@ -1,0 +1,7 @@
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+systemd-l 467 root   16u   CHR  13,64      0t0  318 /dev/input/event0
+systemd-l 467 root   17u   CHR  13,66      0t0  561 /dev/input/event2
+Xorg      516 root   34u   CHR  13,64      0t0  318 /dev/input/event0
+Xorg      516 root   35u   CHR  13,65      0t0  321 /dev/input/event1
+Xorg      516 root   36u   CHR  13,66      0t0  561 /dev/input/event2
+upowerd   668 root   10r   CHR  13,66      0t0  561 /dev/input/event2
