@@ -1,0 +1,116 @@
+-event0   DEVICE_ADDED            Apple Internal Keyboard / Trackpad seat0 default group1  cap:k
+-event1   DEVICE_ADDED            Apple Internal Keyboard / Trackpad seat0 default group1  cap:pg  size 131x82mm tap(dl off) left scroll-nat scroll-2fg-edge click-buttonareas-clickfinger dwt-on dwtp-on
+-event2   DEVICE_ADDED            Apple SMC power/lid events        seat0 default group2  cap:kS
+-event7   DEVICE_ADDED            NOVATEK USB Keyboard              seat0 default group3  cap:k
+-event8   DEVICE_ADDED            NOVATEK USB Keyboard System Control seat0 default group3  cap:k
+-event9   DEVICE_ADDED            NOVATEK USB Keyboard Consumer Control seat0 default group3  cap:k
+-event10  DEVICE_ADDED            NOVATEK USB Keyboard              seat0 default group3  cap:p left scroll-nat
+-event5   DEVICE_ADDED            YICHIP Wireless Device System Control seat0 default group4  cap:k
+-event6   DEVICE_ADDED            YICHIP Wireless Device Consumer Control seat0 default group4  cap:kp scroll-nat
+-event4   DEVICE_ADDED            YICHIP Wireless Device Mouse      seat0 default group4  cap:p left scroll-nat scroll-button
+-event0   KEYBOARD_KEY            +8.460s	*** (-1) pressed
+ event0   KEYBOARD_KEY            +8.500s	*** (-1) pressed
+ event0   KEYBOARD_KEY            +8.508s	*** (-1) pressed
+ event0   KEYBOARD_KEY            +8.604s	*** (-1) released
+ event0   KEYBOARD_KEY            +8.616s	*** (-1) released
+ event0   KEYBOARD_KEY            +8.668s	*** (-1) released
+ event0   KEYBOARD_KEY            +8.770s	*** (-1) pressed
+ event0   KEYBOARD_KEY            +8.906s	*** (-1) released
+ event0   KEYBOARD_KEY            +8.997s	*** (-1) pressed
+ event0   KEYBOARD_KEY            +9.009s	*** (-1) pressed
+ event0   KEYBOARD_KEY            +9.169s	*** (-1) released
+ event0   KEYBOARD_KEY            +9.217s	*** (-1) released
+-event1   POINTER_MOTION          +9.538s	 -4.53/ -8.64 (-46.00/-87.85)
+ event1   POINTER_MOTION          +9.547s	 -5.76/ -6.90 (-52.00/-62.31)
+ event1   POINTER_MOTION          +9.554s	 -3.76/ -6.11 (-34.00/-55.16)
+ event1   POINTER_MOTION          +9.563s	 -3.32/ -5.20 (-30.00/-46.99)
+ event1   POINTER_MOTION          +9.571s	 -2.88/ -4.30 (-26.00/-38.82)
+ event1   POINTER_MOTION          +9.579s	 -2.44/ -4.18 (-22.00/-37.80)
+ event1   POINTER_MOTION          +9.587s	 -1.77/ -3.96 (-16.00/-35.75)
+ event1   POINTER_MOTION          +9.596s	 -1.33/ -3.96 (-12.00/-35.75)
+ event1   POINTER_MOTION          +9.604s	 -0.55/ -4.30 ( -5.00/-38.82)
+ event1   POINTER_MOTION          +9.612s	  0.11/ -4.52 ( +1.00/-40.86)
+ event1   POINTER_MOTION          +9.619s	  0.66/ -4.86 ( +6.00/-43.92)
+ event1   POINTER_MOTION          +9.628s	  1.22/ -7.46 (+11.00/-67.42)
+ event1   POINTER_MOTION          +9.636s	  2.10/ -7.46 (+19.00/-67.42)
+ event1   POINTER_MOTION          +9.644s	  2.99/ -7.46 (+27.00/-67.42)
+ event1   POINTER_MOTION          +9.652s	  3.54/ -6.67 (+32.00/-60.27)
+ event1   POINTER_MOTION          +9.660s	  2.44/ -3.62 (+22.00/-32.69)
+ event1   POINTER_MOTION          +9.668s	  3.32/ -5.09 (+30.00/-45.97)
+ event1   POINTER_MOTION          +9.677s	  3.43/ -4.30 (+31.00/-38.82)
+ event1   POINTER_MOTION          +9.685s	  3.32/ -3.39 (+30.00/-30.65)
+ event1   POINTER_MOTION          +9.693s	  3.32/ -2.71 (+30.00/-24.52)
+ event1   POINTER_MOTION          +9.701s	  3.10/ -1.92 (+28.00/-17.37)
+ event1   POINTER_MOTION          +9.709s	  2.99/ -1.24 (+27.00/-11.24)
+ event1   POINTER_MOTION          +9.717s	  2.66/ -0.57 (+24.00/ -5.11)
+ event1   POINTER_MOTION          +9.725s	  2.44/ -0.11 (+22.00/ -1.02)
+ event1   POINTER_MOTION          +9.734s	  1.99/  0.57 (+18.00/ +5.11)
+ event1   POINTER_MOTION          +9.742s	  1.44/  1.02 (+13.00/ +9.19)
+ event1   POINTER_MOTION          +9.750s	  0.89/  1.81 ( +8.00/+16.34)
+ event1   POINTER_MOTION          +9.758s	  0.44/  3.17 ( +4.00/+28.60)
+ event1   POINTER_MOTION          +9.766s	 -1.11/  3.51 (-10.00/+31.67)
+ event1   POINTER_MOTION          +9.774s	 -2.10/  4.18 (-19.00/+37.80)
+ event1   POINTER_MOTION          +9.782s	 -2.99/  4.41 (-27.00/+39.84)
+ event1   POINTER_MOTION          +9.790s	 -3.76/  4.52 (-34.00/+40.86)
+ event1   POINTER_MOTION          +9.799s	 -4.54/  4.41 (-41.00/+39.84)
+ event1   POINTER_MOTION          +9.807s	 -4.98/  4.18 (-45.00/+37.80)
+ event1   POINTER_MOTION          +9.815s	 -5.42/  3.62 (-49.00/+32.69)
+ event1   POINTER_MOTION          +9.823s	 -5.76/  3.05 (-52.00/+27.58)
+ event1   POINTER_MOTION          +9.831s	 -5.87/  2.49 (-53.00/+22.47)
+ event1   POINTER_MOTION          +9.840s	 -5.98/  1.92 (-54.00/+17.37)
+ event1   POINTER_MOTION          +9.848s	 -5.98/  1.58 (-54.00/+14.30)
+ event1   POINTER_MOTION          +9.856s	 -3.65/  0.45 (-33.00/ +4.09)
+ event1   POINTER_MOTION          +9.864s	 -5.42/  0.68 (-49.00/ +6.13)
+ event1   POINTER_MOTION          +9.872s	 -5.20/  0.23 (-47.00/ +2.04)
+ event1   POINTER_MOTION          +9.880s	 -4.87/ -0.23 (-44.00/ -2.04)
+ event1   POINTER_MOTION          +9.889s	 -4.65/ -0.68 (-42.00/ -6.13)
+ event1   POINTER_MOTION          +9.897s	 -4.21/ -1.02 (-38.00/ -9.19)
+ event1   POINTER_MOTION          +9.905s	 -3.87/ -1.36 (-35.00/-12.26)
+ event1   POINTER_MOTION          +9.913s	 -3.54/ -1.58 (-32.00/-14.30)
+ event1   POINTER_MOTION          +9.921s	 -2.77/ -1.92 (-25.00/-17.37)
+ event1   POINTER_MOTION          +9.929s	 -1.99/ -2.37 (-18.00/-21.45)
+ event1   POINTER_MOTION          +9.937s	 -1.11/ -2.60 (-10.00/-23.49)
+ event1   POINTER_MOTION          +10.133s	  0.21/  0.66 ( +2.00/ +6.13)
+ event1   POINTER_MOTION          +10.141s	  0.16/  0.00 ( +2.00/ +0.00)
+ event1   POINTER_MOTION          +10.149s	  0.00/ -0.14 ( +0.00/ -2.04)
+ event1   GESTURE_HOLD_BEGIN      +10.156s	1
+ event1   POINTER_MOTION          +10.157s	 -0.26/  0.27 ( -3.00/ +3.06)
+ event1   GESTURE_HOLD_END        +10.165s	1
+ event1   POINTER_MOTION          +10.287s	 -1.32/ -1.35 (-12.00/-12.26)
+ event1   POINTER_MOTION          +10.295s	 -0.66/ -0.90 ( -6.00/ -8.17)
+ event1   POINTER_MOTION          +10.304s	 -0.44/ -0.57 ( -4.00/ -5.11)
+ event1   POINTER_MOTION          +10.312s	 -0.21/ -0.22 ( -2.00/ -2.04)
+ event1   POINTER_MOTION          +10.320s	 -0.27/ -0.18 ( -3.00/ -2.04)
+ event1   POINTER_MOTION          +10.328s	 -0.87/  0.22 ( -8.00/ +2.04)
+ event1   POINTER_MOTION          +10.336s	 -2.10/  1.24 (-19.00/+11.24)
+ event1   POINTER_MOTION          +10.344s	 -3.43/  2.49 (-31.00/+22.47)
+ event1   POINTER_MOTION          +10.352s	 -4.32/  3.39 (-39.00/+30.65)
+ event1   POINTER_MOTION          +10.361s	 -6.09/  4.64 (-55.00/+41.88)
+ event1   POINTER_MOTION          +10.369s	 -4.98/  3.96 (-45.00/+35.75)
+ event1   POINTER_MOTION          +10.377s	 -7.08/  5.09 (-64.00/+45.97)
+ event1   POINTER_MOTION          +10.385s	 -7.53/  5.31 (-68.00/+48.01)
+ event1   POINTER_MOTION          +10.393s	 -7.86/  4.98 (-71.00/+44.95)
+ event1   POINTER_MOTION          +10.401s	 -7.75/  4.64 (-70.00/+41.88)
+ event1   POINTER_MOTION          +10.409s	 -7.75/  3.96 (-70.00/+35.75)
+ event1   POINTER_MOTION          +10.417s	 -7.31/  3.17 (-66.00/+28.60)
+ event1   POINTER_MOTION          +10.426s	 -6.75/  2.26 (-61.00/+20.43)
+ event1   POINTER_MOTION          +10.434s	 -3.54/  0.34 (-32.00/ +3.06)
+ event1   POINTER_MOTION          +10.442s	 -5.20/  0.45 (-47.00/ +4.09)
+ event1   POINTER_MOTION          +10.645s	  0.11/  2.49 ( +1.00/+22.47)
+ event1   POINTER_MOTION          +10.654s	  0.89/  2.04 ( +8.00/+18.39)
+ event1   POINTER_MOTION          +10.662s	  0.77/  1.47 ( +7.00/+13.28)
+ event1   POINTER_MOTION          +10.670s	  0.22/  1.13 ( +2.00/+10.22)
+ event1   POINTER_MOTION          +10.678s	 -0.11/  1.24 ( -1.00/+11.24)
+ event1   POINTER_MOTION          +10.686s	  0.11/  1.24 ( +1.00/+11.24)
+ event1   POINTER_MOTION          +10.695s	  0.66/  3.96 ( +6.00/+35.75)
+ event1   GESTURE_HOLD_BEGIN      +10.873s	1
+ event1   POINTER_MOTION          +10.873s	  0.61/  0.10 ( +6.00/ +1.02)
+ event1   POINTER_MOTION          +10.881s	  2.24/  0.42 (+22.00/ +4.09)
+ event1   GESTURE_HOLD_END        +10.890s	1
+ event1   GESTURE_HOLD_BEGIN      +11.028s	1
+ event1   GESTURE_HOLD_END        +11.036s	1 cancelled
+ event1   POINTER_MOTION          +11.036s	  0.92/  0.21 ( +9.00/ +2.04)
+ event1   POINTER_MOTION          +11.044s	  1.74/  0.52 (+17.00/ +5.11)
+ event1   POINTER_MOTION          +11.052s	  3.10/  0.90 (+28.00/ +8.17)
+-event7   KEYBOARD_KEY            +12.424s	*** (-1) pressed
+ event7   KEYBOARD_KEY            +12.656s	*** (-1) pressed
